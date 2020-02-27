@@ -1,0 +1,277 @@
+[
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/main.cpp.o -c /Users/dongbo/testcode/fc/main.cpp",
+  "file": "/Users/dongbo/testcode/fc/main.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/uint128.cpp.o -c /Users/dongbo/testcode/fc/src/uint128.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/uint128.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/real128.cpp.o -c /Users/dongbo/testcode/fc/src/real128.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/real128.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/variant.cpp.o -c /Users/dongbo/testcode/fc/src/variant.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/variant.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/exception.cpp.o -c /Users/dongbo/testcode/fc/src/exception.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/exception.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/variant_object.cpp.o -c /Users/dongbo/testcode/fc/src/variant_object.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/variant_object.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/string.cpp.o -c /Users/dongbo/testcode/fc/src/string.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/string.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/time.cpp.o -c /Users/dongbo/testcode/fc/src/time.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/time.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/utf8.cpp.o -c /Users/dongbo/testcode/fc/src/utf8.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/utf8.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/io/datastream.cpp.o -c /Users/dongbo/testcode/fc/src/io/datastream.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/io/datastream.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/io/json.cpp.o -c /Users/dongbo/testcode/fc/src/io/json.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/io/json.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/io/varint.cpp.o -c /Users/dongbo/testcode/fc/src/io/varint.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/io/varint.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/io/fstream.cpp.o -c /Users/dongbo/testcode/fc/src/io/fstream.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/io/fstream.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/io/console.cpp.o -c /Users/dongbo/testcode/fc/src/io/console.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/io/console.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/filesystem.cpp.o -c /Users/dongbo/testcode/fc/src/filesystem.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/filesystem.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/interprocess/file_mapping.cpp.o -c /Users/dongbo/testcode/fc/src/interprocess/file_mapping.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/interprocess/file_mapping.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/interprocess/mmap_struct.cpp.o -c /Users/dongbo/testcode/fc/src/interprocess/mmap_struct.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/interprocess/mmap_struct.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/log/log_message.cpp.o -c /Users/dongbo/testcode/fc/src/log/log_message.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/log/log_message.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/log/logger.cpp.o -c /Users/dongbo/testcode/fc/src/log/logger.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/log/logger.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/log/appender.cpp.o -c /Users/dongbo/testcode/fc/src/log/appender.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/log/appender.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/log/console_appender.cpp.o -c /Users/dongbo/testcode/fc/src/log/console_appender.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/log/console_appender.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/log/gelf_appender.cpp.o -c /Users/dongbo/testcode/fc/src/log/gelf_appender.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/log/gelf_appender.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/log/logger_config.cpp.o -c /Users/dongbo/testcode/fc/src/log/logger_config.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/log/logger_config.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/_digest_common.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/_digest_common.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/_digest_common.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/openssl.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/openssl.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/openssl.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/aes.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/aes.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/aes.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/crc.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/crc.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/crc.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/city.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/city.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/city.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/base36.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/base36.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/base36.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/base58.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/base58.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/base58.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/base64.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/base64.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/base64.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/bigint.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/bigint.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/bigint.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/hex.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/hex.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/hex.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/sha1.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/sha1.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/sha1.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/ripemd160.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/ripemd160.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/ripemd160.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/sha256.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/sha256.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/sha256.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/sha224.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/sha224.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/sha224.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/sha512.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/sha512.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/sha512.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/dh.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/dh.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/dh.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/blowfish.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/blowfish.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/blowfish.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/elliptic_common.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/elliptic_common.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/elliptic_common.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/elliptic_r1.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/elliptic_r1.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/elliptic_r1.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/elliptic_webauthn.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/elliptic_webauthn.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/elliptic_webauthn.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/rand.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/rand.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/rand.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/public_key.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/public_key.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/public_key.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/private_key.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/private_key.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/private_key.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/crypto/signature.cpp.o -c /Users/dongbo/testcode/fc/src/crypto/signature.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/crypto/signature.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/network/ip.cpp.o -c /Users/dongbo/testcode/fc/src/network/ip.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/network/ip.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/network/platform_root_ca.cpp.o -c /Users/dongbo/testcode/fc/src/network/platform_root_ca.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/network/platform_root_ca.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/network/resolve.cpp.o -c /Users/dongbo/testcode/fc/src/network/resolve.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/network/resolve.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/network/udp_socket.cpp.o -c /Users/dongbo/testcode/fc/src/network/udp_socket.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/network/udp_socket.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/network/url.cpp.o -c /Users/dongbo/testcode/fc/src/network/url.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/network/url.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/network/http/http_client.cpp.o -c /Users/dongbo/testcode/fc/src/network/http/http_client.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/network/http/http_client.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/compress/smaz.cpp.o -c /Users/dongbo/testcode/fc/src/compress/smaz.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/compress/smaz.cpp"
+},
+{
+  "directory": "/Users/dongbo/testcode/fc/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/dongbo/Documents/boost/include -I/usr/local/opt/openssl/include -I/Users/dongbo/Documents/openssl/include -I/Users/dongbo/Documents/rapidjson/include -I/Users/dongbo/testcode/fc/vendor/websocketpp -I/Users/dongbo/testcode/fc/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++17 -o CMakeFiles/fc.dir/src/compress/zlib.cpp.o -c /Users/dongbo/testcode/fc/src/compress/zlib.cpp",
+  "file": "/Users/dongbo/testcode/fc/src/compress/zlib.cpp"
+}
+]
